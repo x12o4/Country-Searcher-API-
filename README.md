@@ -3,7 +3,7 @@ Country Searcher is a simple, interactive website that lets you explore countrie
 
 LIVE WEBSITE
 --------------------------------------------------
-https://github.com/x12o4/Country-Searcher-API-.git
+ https://x12o4.github.io/Country-Searcher-API-/
 --------------------------------------------------
 
 Features
