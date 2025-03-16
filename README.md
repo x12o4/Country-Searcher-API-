@@ -25,7 +25,7 @@ LocalStorage for saving the theme preference.
 ----------------------------------------------------------------------------------------------------------
 Installation
 Clone this repository to your local machine
-git clone https://github.com/your-username/country-searcher.git
+git clone https://github.com/x12o4/country-searcher.git
 Open the project folder in your preferred code editor.
 Launch index.html in your browser to start using the app
 ----------------------------------------------------------------------------------------------------------
